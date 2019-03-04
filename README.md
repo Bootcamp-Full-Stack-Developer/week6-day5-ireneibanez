@@ -4,7 +4,7 @@ En esta ocasión vamos a utilizar las APIs de HTML5 como la de video o localStor
 de crear un reproductor de video. 
 
 Contaremos con una lista de videos que podrán ser reproducidos y añadidos a una lista 
-de favoritos, la cual debe almacenarse en el local o sesión storage.
+de favoritos, la cual debe almacenarse en el local o sesion storage.
 
 Como siempre, ayudate del código base y de las búsquedas que necesites para lograr
 completar todas las iteraciones posibles!
